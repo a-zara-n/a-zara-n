@@ -67,4 +67,5 @@ const azara = {
 - **PHP conference ‘18’ staff**
 - **CODE BLUE**: Student Staff (‘18, 1’9)
 - **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
+- **Security Mini Camp**: Tutor (Tokyo '22)
 - **SecHack365**: Develop Driven Course Trainee ('19)
