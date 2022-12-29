@@ -1,7 +1,7 @@
 ---
 title: About Me
 author: a-zara-n
-tags: ["blog"]
+tags: ["aboutme"]
 createDate: 2022-12-01 18:04
 ---
 # About me
