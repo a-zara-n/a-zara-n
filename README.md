@@ -24,7 +24,7 @@ const azara = {
 ## 💻 Work experience
 
 ### Security Engineer
-**GMO Pepavo inc. (2018, 09 ~ 2019, 12)**
+**GMO Pepabo inc. (2018, 09 ~ 2019, 12)**
 
 
 **Flatt Security inc (2019,12 ~ now)**
@@ -35,14 +35,14 @@ const azara = {
 
 
 ### Cram School Teacher
-**LOTALICO inc. (2017, 09 ~ 2018, 10)**
+**LITALICO inc. (2017, 09 ~ 2018, 10)**
 
 ## 🗣️ Talks
-- [脆弱性を報告して初めて採番されたCVEの解説と注意喚起 - 未熟なエンジニア](https://azara.hatenablog.com/entry/2020/12/17/025350)
 - ["ざっくり"話す"AWS IAM"の特権昇格の考え方と対策 - Speaker Deck](https://speakerdeck.com/azara/zatukuri-hua-su-aws-iam-falsete-quan-sheng-ge-falsekao-efang-todui-ce)
 - [セキュリティ・キャンプ全国大会 2021 オンライン B3 分散アーキテクチャ時代におけるWebシステムの開発と運用 事前資料 クラウドシステムをセキュアに開発運用する勘所 - Speaker Deck](https://speakerdeck.com/azara/sekiyuriteikiyanpuquan-guo-da-hui-2021-onrain-b3-fen-san-akitekutiyashi-dai-niokeruwebsisutemufalsekai-fa-toyun-yong-shi-qian-zi-liao-kuraudosisutemuwosekiyuanikai-fa-yun-yong-surukan-suo)
 
 ## 📝 Posts
+- [脆弱性を報告して初めて採番されたCVEの解説と注意喚起 - 未熟なエンジニア](https://azara.hatenablog.com/entry/2020/12/17/025350)
 - [AWS 診断を事例としたクラウドセキュリティ。サーバーレス環境の不備や見落としがちな Cognito の穴による危険性 - Flatt Security Blog](https://blog.flatt.tech/entry/cloud_security_aws_case)
 - [EDoS Attack: クラウド利用料金でサービスを止められるって本当？ - Flatt Security Blog](https://blog.flatt.tech/entry/edos_aws)
 - [脆弱性を報告して初めて採番されたCVEの解説と注意喚起 - 未熟なエンジニア](https://azara.hatenablog.com/entry/2020/12/17/025350)
