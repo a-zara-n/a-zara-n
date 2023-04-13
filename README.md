@@ -38,10 +38,13 @@ const azara = {
 **LITALICO inc. (2017, 09 ~ 2018, 10)**
 
 ## 🗣️ Talks
+- [Serverless applicationとセキュリティ~Cognito編~ - Speaker Deck](https://speakerdeck.com/azara/serverless-applicationto-sekiyuritei-cognitobian)
 - ["ざっくり"話す"AWS IAM"の特権昇格の考え方と対策 - Speaker Deck](https://speakerdeck.com/azara/zatukuri-hua-su-aws-iam-falsete-quan-sheng-ge-falsekao-efang-todui-ce)
 - [セキュリティ・キャンプ全国大会 2021 オンライン B3 分散アーキテクチャ時代におけるWebシステムの開発と運用 事前資料 クラウドシステムをセキュアに開発運用する勘所 - Speaker Deck](https://speakerdeck.com/azara/sekiyuriteikiyanpuquan-guo-da-hui-2021-onrain-b3-fen-san-akitekutiyashi-dai-niokeruwebsisutemufalsekai-fa-toyun-yong-shi-qian-zi-liao-kuraudosisutemuwosekiyuanikai-fa-yun-yong-surukan-suo)
+- [パブリッククラウド特有の脅威の向き合い方 - Speaker Deck](https://speakerdeck.com/lhazy/paburitukukuraudote-you-noxie-wei-noxiang-kihe-ifang)
 
 ## 📝 Posts
+- [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント - ISOG-J WG1](https://webapppentestguidelines.github.io/newtechtestdoc/)
 - [脆弱性を報告して初めて採番されたCVEの解説と注意喚起 - 未熟なエンジニア](https://azara.hatenablog.com/entry/2020/12/17/025350)
 - [AWS 診断を事例としたクラウドセキュリティ。サーバーレス環境の不備や見落としがちな Cognito の穴による危険性 - Flatt Security Blog](https://blog.flatt.tech/entry/cloud_security_aws_case)
 - [EDoS Attack: クラウド利用料金でサービスを止められるって本当？ - Flatt Security Blog](https://blog.flatt.tech/entry/edos_aws)
@@ -67,5 +70,5 @@ const azara = {
 - **PHP conference ‘18’ staff**
 - **CODE BLUE**: Student Staff (‘18, 1’9)
 - **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
-- **Security Mini Camp**: Tutor (Tokyo '22)
+- **Security Mini Camp**: Tutor (Tokyo '22), Lecturer (Tokyo '23)
 - **SecHack365**: Develop Driven Course Trainee ('19)
