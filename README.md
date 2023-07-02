@@ -42,6 +42,8 @@ const azara = {
 - ["ざっくり"話す"AWS IAM"の特権昇格の考え方と対策 - Speaker Deck](https://speakerdeck.com/azara/zatukuri-hua-su-aws-iam-falsete-quan-sheng-ge-falsekao-efang-todui-ce)
 - [セキュリティ・キャンプ全国大会 2021 オンライン B3 分散アーキテクチャ時代におけるWebシステムの開発と運用 事前資料 クラウドシステムをセキュアに開発運用する勘所 - Speaker Deck](https://speakerdeck.com/azara/sekiyuriteikiyanpuquan-guo-da-hui-2021-onrain-b3-fen-san-akitekutiyashi-dai-niokeruwebsisutemufalsekai-fa-toyun-yong-shi-qian-zi-liao-kuraudosisutemuwosekiyuanikai-fa-yun-yong-surukan-suo)
 - [パブリッククラウド特有の脅威の向き合い方 - Speaker Deck](https://speakerdeck.com/lhazy/paburitukukuraudote-you-noxie-wei-noxiang-kihe-ifang)
+- [コンテキストを読み解き進めるモダンWebセキュリティ入門 - 公開資料 - Docswell](https://www.docswell.com/s/a-zara-n/Z248ER-minicamp2023tokyo)
+- [AWS Dev Day 2023  E-2: Amazon S3・Amazon Cognito・AWS Lambdaのアンチパターンで学ぶセキュリティ・バイ・デザイン - Docswell](https://www.docswell.com/s/a-zara-n/5248R9-devday)
 
 ## 📝 Posts
 - [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント - ISOG-J WG1](https://webapppentestguidelines.github.io/newtechtestdoc/)
