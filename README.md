@@ -38,7 +38,7 @@ const azara = {
 **LITALICO inc. (2017, 09 ~ 2018, 10)**
 
 ## 🗣️ Talks
-- [Serverless applicationとセキュリティ \~Cognito編\~ - Speaker Deck](https://speakerdeck.com/azara/serverless-applicationto-sekiyuritei-cognitobian)
+- [Serverless applicationとセキュリティ \~ Cognito編 \~ - Speaker Deck](https://speakerdeck.com/azara/serverless-applicationto-sekiyuritei-cognitobian)
 - ["ざっくり"話す"AWS IAM"の特権昇格の考え方と対策 - Speaker Deck](https://speakerdeck.com/azara/zatukuri-hua-su-aws-iam-falsete-quan-sheng-ge-falsekao-efang-todui-ce)
 - [セキュリティ・キャンプ全国大会 2021 オンライン B3 分散アーキテクチャ時代におけるWebシステムの開発と運用 事前資料 クラウドシステムをセキュアに開発運用する勘所 - Speaker Deck](https://speakerdeck.com/azara/sekiyuriteikiyanpuquan-guo-da-hui-2021-onrain-b3-fen-san-akitekutiyashi-dai-niokeruwebsisutemufalsekai-fa-toyun-yong-shi-qian-zi-liao-kuraudosisutemuwosekiyuanikai-fa-yun-yong-surukan-suo)
 - [パブリッククラウド特有の脅威の向き合い方 - Speaker Deck](https://speakerdeck.com/lhazy/paburitukukuraudote-you-noxie-wei-noxiang-kihe-ifang)
@@ -58,6 +58,9 @@ const azara = {
 - [CVE-2020-5676: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5676)
 - [CVE-2020-5677: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5678)
 - [CVE-2020-5678: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5678)
+- [CVE-2023-49090: carrierwave](https://github.com/carrierwaveuploader/carrierwave/security/advisories/GHSA-gxhx-g4fq-49hj)
+- CVE-2023-46699, CVE-2023-49119, CVE-2023-50175, CVE-2023-50294, CVE-2023-50332, CVE-2023-50339: GROWI
+
 
 ### 🪪 Qualifications
 - 基本情報技術者試験
@@ -75,3 +78,4 @@ const azara = {
 - **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
 - **Security Mini Camp**: Tutor (Tokyo '22), Lecturer (Tokyo '23)
 - **SecHack365**: Develop Driven Course Trainee ('19)
+- **Flatt Security Mini CTF #3**: https://flatt.connpass.com/event/298345/
