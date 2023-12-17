@@ -78,8 +78,9 @@ const azara = {
 
 ## 🚶‍♂️ Activities
 - **AWS Dev Day 2023 登壇**
+- **Security JAWS Days** (CTF '23)
 - **PHP conference ‘18’ staff**
-- **CODE BLUE**: Student Staff (‘18, 1’9)
+- **CODE BLUE**: Student Staff (‘18, ’19)
 - **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
 - **Security Mini Camp**: Tutor (Tokyo '22), Lecturer (Tokyo '23)
 - **SecHack365**: Develop Driven Course Trainee ('19)
