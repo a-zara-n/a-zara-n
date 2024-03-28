@@ -71,6 +71,7 @@ const azara = {
 - **Security JAWS Days** (CTF '23)
 - **JPCERT/CC JSAC 2024** (Workshop Lecturer)
 	- Best speaker
+ - **BSides Tokyo 2024** speaker
 - **PHP conference ‘18’ staff**
 - **CODE BLUE**: Student Staff (‘18, ’19)
 - **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
