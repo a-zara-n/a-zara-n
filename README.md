@@ -54,17 +54,7 @@ const azara = {
 - [[Laravel] ドキュメントの概念について調べて見た - Qiita](https://qiita.com/A_zara/items/6d15777870a43111d8ec)
 
 ## 🔍 Security Contributions
-- [CVE-2020-5682: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5682)
-- [CVE-2020-5676: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5676)
-- [CVE-2020-5677: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5678)
-- [CVE-2020-5678: GROWI](https://nvd.nist.gov/vuln/detail/CVE-2020-5678)
-- [CVE-2023-49090: carrierwave](https://github.com/carrierwaveuploader/carrierwave/security/advisories/GHSA-gxhx-g4fq-49hj)
-- CVE-2023-46699: GROWI
-- CVE-2023-49119: GROWI
-- CVE-2023-50175: GROWI
-- CVE-2023-50294: GROWI
-- CVE-2023-50332: GROWI
-- CVE-2023-50339: GROWI
+[CVE-2020-5682](https://nvd.nist.gov/vuln/detail/CVE-2020-5682), [CVE-2020-5676](https://nvd.nist.gov/vuln/detail/CVE-2020-5676), [CVE-2020-5677](https://nvd.nist.gov/vuln/detail/CVE-2020-5678), [CVE-2020-5678](https://nvd.nist.gov/vuln/detail/CVE-2020-5678), [CVE-2023-49090](https://github.com/carrierwaveuploader/carrierwave/security/advisories/GHSA-gxhx-g4fq-49hj), CVE-2023-46699, CVE-2023-49119: , CVE-2023-50175, CVE-2023-50294, CVE-2023-50332, CVE-2023-50339, CVE-2024-29034
 
 
 ### 🪪 Qualifications
@@ -79,6 +69,8 @@ const azara = {
 ## 🚶‍♂️ Activities
 - **AWS Dev Day 2023 登壇**
 - **Security JAWS Days** (CTF '23)
+- **JPCERT/CC JSAC 2024** (Workshop Lecturer)
+	- Best speaker
 - **PHP conference ‘18’ staff**
 - **CODE BLUE**: Student Staff (‘18, ’19)
 - **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
