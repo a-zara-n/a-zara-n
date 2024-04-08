@@ -44,6 +44,7 @@ const azara = {
 - [パブリッククラウド特有の脅威の向き合い方 - Speaker Deck](https://speakerdeck.com/lhazy/paburitukukuraudote-you-noxie-wei-noxiang-kihe-ifang)
 - [コンテキストを読み解き進めるモダンWebセキュリティ入門 - 公開資料 - Docswell](https://www.docswell.com/s/a-zara-n/Z248ER-minicamp2023tokyo)
 - [AWS Dev Day 2023  E-2: Amazon S3・Amazon Cognito・AWS Lambdaのアンチパターンで学ぶセキュリティ・バイ・デザイン - Docswell](https://www.docswell.com/s/a-zara-n/5248R9-devday)
+- [BSides Tokyo2024 - XSS using dirty Content Type in cloud era](https://speakerdeck.com/flatt_security/xss-using-dirty-content-type-in-cloud-era)
 
 ## 📝 Posts
 - [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント - ISOG-J WG1](https://webapppentestguidelines.github.io/newtechtestdoc/)
