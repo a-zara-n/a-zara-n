@@ -70,7 +70,7 @@ const azara = {
 ## 🚶‍♂️ Activities
 - **AWS Dev Day 2023 登壇**
 - **Security JAWS Days** (CTF '23)
-- - **Security-JAWS #20, #34** speaker
+- **Security-JAWS #20, #34** speaker
 - **JPCERT/CC JSAC 2024** (Workshop Lecturer)
 	- Best speaker
 - **BSides Tokyo 2024** speaker
