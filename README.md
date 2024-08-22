@@ -70,12 +70,14 @@ const azara = {
 ## 🚶‍♂️ Activities
 - **AWS Dev Day 2023 登壇**
 - **Security JAWS Days** (CTF '23)
+- - **Security-JAWS #20, #34** speaker
 - **JPCERT/CC JSAC 2024** (Workshop Lecturer)
 	- Best speaker
- - **BSides Tokyo 2024** speaker
+- **BSides Tokyo 2024** speaker
+- **BSides LasVegas 2024** speaker
 - **PHP conference ‘18’ staff**
 - **CODE BLUE**: Student Staff (‘18, ’19)
-- **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21)
+- **Security Camp**: Attendee (‘18), Tutor (‘19, ‘20), Lecturer(‘21, '24)
 - **Security Mini Camp**: Tutor (Tokyo '22), Lecturer (Tokyo '23)
 - **SecHack365**: Develop Driven Course Trainee ('19)
-- **Flatt Security Mini CTF #3**: https://flatt.connpass.com/event/298345/
+- **Flatt Security Mini CTF #3, #4**: https://flatt.connpass.com/event/298345/
