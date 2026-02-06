@@ -24,11 +24,11 @@ const azara = {
 ## 💻 Work experience
 
 ### Security Engineer
+**...***
+
+**Flatt Security inc (2019,12 ~ 2026,02)**
+
 **GMO Pepabo inc. (2018, 09 ~ 2019, 12)**
-
-
-**Flatt Security inc (2019,12 ~ now)**
-
 
 ### Web Application Developer
 **mewcket inc. (2017, 12 ~ 2018, 9)**
